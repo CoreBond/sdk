@@ -1,6 +1,6 @@
 # CoreBond SDK (Developer Preview)
 
-Hardware-rooted device identity without stored secrets.
+Hardware-rooted identity. No stored keys. No key exchange.
 
 CoreBond provides hardware-rooted device identity without stored secrets.
 
