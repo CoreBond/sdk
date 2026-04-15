@@ -2,7 +2,7 @@
 
 Hardware-rooted identity. No stored keys. No key exchange.
 
-CoreBond provides hardware-rooted device identity without stored secrets.
+Identity is derived from physical device characteristics rather than stored credentials.
 
 This developer preview demonstrates:
 - Device-level entropy signals  
