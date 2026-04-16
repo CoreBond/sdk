@@ -58,7 +58,7 @@ This removes entire classes of key extraction and replay attacks.
 
 ## Next Steps
 
-For access to extended SDK capabilities and integration guidance:
+Exploring hardware-rooted identity for real-world systems?
 
 CoreBond is currently in active prototype validation.
 
