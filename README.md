@@ -60,8 +60,13 @@ This removes entire classes of key extraction and replay attacks.
 
 For access to extended SDK capabilities and integration guidance:
 
-Learn more: https://corebond.io
+CoreBond is currently in active prototype validation.
 
+If you're working on device security, IoT, or embedded systems, let's talk:
+<a href="mailto:intro@corebond.io"
+   class="inline-block mt-4 px-6 py-3 bg-slate-900 text-white rounded-lg hover:bg-slate-800 transition">
+   Start a Conversation
+</a>
 ---
 
 ## License
