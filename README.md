@@ -60,7 +60,7 @@ This removes entire classes of key extraction and replay attacks.
 
 Exploring hardware-rooted identity for real-world systems?
 
-CoreBond is currently in active prototype validation.
+CoreBond is currently in active prototype validation across physical devices.
 
 If you're working on device security, IoT, or embedded systems, let's talk:
 <a href="mailto:intro@corebond.io"
